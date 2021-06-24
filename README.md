@@ -29,7 +29,9 @@
 
 <div align='center'>
 <img align='cent' src="Mindmap/乒乓球技能树.png" alt="乒乓球技能树" >
-<p><b>Online Edition | Download </b></p>
+
+[**PNG**](Mindmap/乒乓球技能树.png) | [**HTML**](Mindmap/乒乓球技能树.html)
+
 </div>
 
 ## Projects & Roadmap
