@@ -28,7 +28,7 @@
 ## SkillMap
 
 <div align='center'>
-<img align='cent' src="Mindmap/乒乓球技能树.png" alt="乒乓球技能树" >
+<img align='cent' src="./assets/mindmap/乒乓球技能树.png" alt="乒乓球技能树" >
 
 [**PNG**](./assets/mindmap/乒乓球技能树.png) | [**HTML**]()
 
